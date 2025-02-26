@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.experience-licensing]
+path = 'contracts/experience-licensing.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.simulation-creation]
 path = 'contracts/simulation-creation.clar'
 clarity_version = 2
