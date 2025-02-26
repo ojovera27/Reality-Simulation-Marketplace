@@ -15,3 +15,5 @@ T
 $tests/cross-simulation-asset.test.ts,5/7/575e33e2dcdc2b5ae58d732ce7e73ee1b86e9201
 S
 #contracts/simulation-stability.clar,c/9/c980d77d32b9d7fc6f87dd059de4bc82fcbc2af8
+R
+"tests/simulation-stability.test.ts,9/d/9d9db27f28aa5db43ebb94f95e59d43a123bd1b3
