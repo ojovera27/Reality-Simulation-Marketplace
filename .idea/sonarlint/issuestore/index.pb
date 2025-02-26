@@ -9,3 +9,5 @@ S
 #contracts/experience-licensing.clar,3/0/30b0925aa01968ab18f50c2dc0a17dec439d37a3
 R
 "tests/experience-licensing.test.ts,8/4/84ea0f48107f31770029b324653c72251626cbff
+U
+%contracts/cross-simulation-asset.clar,2/0/20223628ff83f4bd3c35a86b8bebfd9a9ae5fba8
