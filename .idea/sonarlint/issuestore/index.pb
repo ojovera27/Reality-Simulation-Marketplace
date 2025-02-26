@@ -11,3 +11,5 @@ R
 "tests/experience-licensing.test.ts,8/4/84ea0f48107f31770029b324653c72251626cbff
 U
 %contracts/cross-simulation-asset.clar,2/0/20223628ff83f4bd3c35a86b8bebfd9a9ae5fba8
+T
+$tests/cross-simulation-asset.test.ts,5/7/575e33e2dcdc2b5ae58d732ce7e73ee1b86e9201
